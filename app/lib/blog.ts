@@ -18,7 +18,7 @@ export async function fetchBlog(): Promise<Blog[]> {
         }))
 
     } catch (error) {
-        console.error('Error fetching todos:', error)
+        console.error('Error fetching blogs:', error)
         return []
 
     }
