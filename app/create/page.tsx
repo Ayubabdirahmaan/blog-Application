@@ -3,7 +3,7 @@ import React from 'react'
 
 const create = () => {
   return (
-    <div className='max-w-7xl mx-auto '>
+    <div className='max-w-7xl mx-auto'>
         <div className='max-w-3xl mx-auto shadow-md mt-10 rounded-lg p-4'>
             {/* header form titles */} 
           <div className='flex justify-between p-3 items-center '>
